@@ -1,5 +1,5 @@
 # emoji-MemeHard
-Used to convert text strings into a format that can be inputted into slack to meme your friends.
+Used to convert text strings into a format that can be use in conjuntion with Slack letter emojis to meme your friends and coworkers.
 
 # Sample Output
 Insert memehard string: This is a test of the meme hard alert system
