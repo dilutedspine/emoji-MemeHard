@@ -12,7 +12,7 @@ foreach($character in $phrase.ToCharArray()) {
     }
     else
     {
-        $output += " "
+        $output += "   "
     }
 }
 $output
